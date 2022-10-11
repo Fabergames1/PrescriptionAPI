@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZwPutRH0MjZWODF54OsxY5wct15WFX/muY1DyDbub2k=",
+  "Source": "PrescriptionAPI",
+  "BasePath": "_content/PrescriptionAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
